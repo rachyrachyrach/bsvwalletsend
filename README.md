@@ -39,7 +39,8 @@ Send your money
 python send.py
 ```
 
+Check out [examples](https://test.whatsonchain.com/address/mrDmWotjccTaBUkdWVBtKzh7ccLxbneMj6) that I send to my testnet wallet
 
-
+![testnet](/docs/testnet_wallet.jpg)
 
 
