@@ -15,6 +15,11 @@ Python 3.12.2. You can install the [bitsv](https://austecon.github.io/bitsv/guid
 ```
 pip install -r requirements.txt
 ```
+or 
+
+```
+python3 -m pip install bitsv
+```
 
 Add your private key locally using the export command. 
 
