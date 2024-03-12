@@ -1,0 +1,12 @@
+asn1crypto==1.5.1
+git+https://github.com/Beryllium-Team/bitsv@add_key_beta
+certifi==2024.2.2
+cffi==1.16.0
+charset-normalizer==3.3.2
+coincurve==19.0.1
+idna==3.6
+pycparser==2.21
+python-bitcoinrpc==1.0
+requests==2.31.0
+urllib3==2.2.1
+whatsonchain==0.0.3
