@@ -12,7 +12,7 @@ my_key_test.get_balance()
 print(my_key_test.get_unspents())
 # Can include a long list of tuples as outputs
 outputs = [
-    (client_address, 0.0001, 'bsv')
+    (client_address, 1, 'satoshi')
     ]
 
 my_key_test.send(outputs)
